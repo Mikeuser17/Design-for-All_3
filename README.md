@@ -38,6 +38,6 @@ Our team members came together because ...
  
 | Name | Organization |
 | --- | --- |
-| [Suremy Rahugnanam(social-url) | ??? |
+| [Suremy Rahugnanam](social-url) | ??? |
 | [Mike Stevens](social-url) | ??? |
 
